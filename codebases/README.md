@@ -1,9 +1,9 @@
 # Codebases
 
 This is a list of suggested codebases to explore, grouped by programming
-languages.
+language.
 
-Keep in mind that all codebases evolve, so the comments here may get out of
+Keep in mind that codebases evolve, so the comments here may get out of
 date.
 
 ## Javascript
