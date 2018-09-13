@@ -10,7 +10,7 @@ date.
 
 - [express](https://github.com/expressjs/express): widely used and written in
   plain javascript. This is a great example of how learning the internals of
-  somethings will improve how you use it (or at least you'll understand
+  something will improve how you use it (or at least you'll understand
   better what you are doing).
 - [sinon](https://github.com/sinonjs/sinon): has to deal with a lot of language
   edge cases, which may or may not be something you consider fun. Also, you have
