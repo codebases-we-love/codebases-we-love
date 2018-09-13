@@ -1,4 +1,4 @@
-# Codebases We Love
+# Codebases We Love :heart::scroll:
 
 We've all heard the advice: spend more time reading code. And yet, there's some taboo on peeking inside a popular library or framework.
 
