@@ -28,7 +28,7 @@ If this sounds like fun to you, here's what you need to do. (For more detailed
 information, go [here](ORGANIZING.md))
 
 1. Get some friends that are also interested. We think that between 3 and 5 is a good number, but your mileage may vary.
-2. [Pick a codebase](CODEBASES.md) that you all are interested in.
+2. [Pick a codebase](codebases/README.md) that you all are interested in.
 3. Set a date for a meeting. One week in the future should be enough, especially the first time.
 4. Before the meeting, each one on their own will explore the codebase
 5. Meet on the planned date and talk about what you found. Even more important: talk about the questions you found and couldn't answer.
