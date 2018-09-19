@@ -44,8 +44,8 @@ date.
   documentation, testing, higher rank types and serialization. There is a long 
   article explaining this library at https://ren.zone/articles/safe-money
   
-- [di-core](https://hackage.haskell.org/package/di)
-  is a logging library that relies heavily in _contravariance_ to separating 
+- [di-core](https://hackage.haskell.org/package/di-core)
+  is a logging library that relies heavily in _contravariance_ to separate 
   the logging intention from the final rendering format, time, and place. As 
   such, it is an intresting codebase to learn about _contravariance_. Moreover,
   its a very small and ergonomic library with vastly more documentation than 
